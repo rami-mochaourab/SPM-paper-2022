@@ -19,9 +19,12 @@ The figures in the paper can be reproduced using the associated notebooks as in 
 
 ```
 @article{Mochaourab2022,
-   author = {Rami Mochaourab, Arun Venkitaraman, Isak Samsten, Panagiotis Papapetrou, and Cristian R. Rojas},
-   journal = {IEEE Signal Processing Magazine, Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability},
-   title = {Post-hoc Explainability for Time Series Classification: Towards a Signal Processing Perspective},
-   year = {2022},
-   note = {to appear.}
-}
+  author={Mochaourab, Rami and Venkitaraman, Arun and Samsten, Isak and Papapetrou, Panagiotis and Rojas, Cristian R.},
+  journal={IEEE Signal Processing Magazine}, 
+  title={Post Hoc Explainability for Time Series Classification: Toward a signal processing perspective}, 
+  year={2022},
+  volume={39},
+  number={4},
+  pages={119-129},
+  doi={10.1109/MSP.2022.3155955}
+  }
