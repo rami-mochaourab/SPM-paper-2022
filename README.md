@@ -7,10 +7,8 @@ The figures in the paper can be reproduced using the associated notebooks as in 
 
 
 * **Figure 2**: The notebook `classifier_comparison-plot_results` plots the figures according to the data in `data/accuracies.pkl` and `data/complexity.pkl`. This data is collected using the notebook  `classifier_comparison`.
-* **Figure 3**: 
-* **Figure 4**:
-* **Figure 5**:
-* **Figure 6**:
+* **Figure 3**: See the notebook `Figure_3` for the code to generate both subfigures.
+* **Figures 4, 5, 6**: See the notebook `Figure_4_5_6` for the code to generate those figures.
 * **Figure 7**:
 * **Figure 8**:
 
